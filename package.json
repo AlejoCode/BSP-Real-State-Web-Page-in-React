@@ -1,0 +1,19 @@
+{
+  "name": "bsp",
+  "version": "1.0.0",
+  "description": "Real State Web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "allOK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejoCode/BSP-Real-State-Web-Page-in-React.git"
+  },
+  "author": "Alejandro Salgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejoCode/BSP-Real-State-Web-Page-in-React/issues"
+  },
+  "homepage": "https://github.com/AlejoCode/BSP-Real-State-Web-Page-in-React#readme"
+}
